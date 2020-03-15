@@ -1,0 +1,18 @@
+.card-time {
+  background-color: #E8E8E8;
+  width: 50%;
+
+  .btn-pause-stop, .mat-fab.mat-accent {
+    color: #1D9193;
+  }
+
+  .timer-pomodoro {
+    font-size: 90px;
+    color: #004953;
+  }
+
+  .contagem {
+    color: #004953;
+    font-family: 'Rajdhani', sans-serif !important;
+  }
+}
